@@ -1,2 +1,5 @@
 numpy
 Pillow
+pandas
+scikit-learn
+fancyimpute
